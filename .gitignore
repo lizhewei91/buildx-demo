@@ -1,0 +1,10 @@
+/.idea
+/.vscode
+/bindata
+/config.toml
+/test-style
+/test-unit
+/coverage
+/bin
+/docs/swag
+/docs
